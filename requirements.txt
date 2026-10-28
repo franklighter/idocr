@@ -1,0 +1,5 @@
+# 纯 CPU 运行，无需 GPU / CUDA / 平头哥 SDK
+rapidocr_onnxruntime>=1.3.0
+onnxruntime>=1.16.0
+opencv-python>=4.8.0
+numpy>=1.24.0

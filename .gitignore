@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+debug/
+tests/hard/
+tests/samples/
+results.csv
+*.jsonl
